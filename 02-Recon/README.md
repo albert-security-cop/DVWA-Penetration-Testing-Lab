@@ -122,13 +122,20 @@ nikto -h http://192.168.100.129
 
 ## Screenshots
 
-| # | Description |
-|---|---|
-| 01 | Nmap basic scan results |
-| 02 | Nmap service version scan (-sV) |
-| 03 | Nmap aggressive scan (-A) |
-| 04 | Nmap full port scan (-p-) |
-| 05 | Nikto scan results |
+### 1. Nmap Basic Scan
+![Nmap Basic Scan](screenshots/01-nmap-basic.png)
+
+### 2. Nmap Service Version Scan
+![Nmap Version Scan](screenshots/02-nmap-version.png)
+
+### 3. Nmap Aggressive Scan
+![Nmap Aggressive Scan](screenshots/03-nmap-aggressive.png)
+
+### 4. Nmap Full Port Scan
+![Nmap All Ports](screenshots/04-nmap-allports.png)
+
+### 5. Nikto Web Vulnerability Scan
+![Nikto Scan](screenshots/05-nikto.png)
 
 ---
 
