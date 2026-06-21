@@ -33,8 +33,8 @@ A full penetration test conducted against DVWA (Damn Vulnerable Web Application)
 |---|---|---|---|
 | 1 | Brute Force | High | ✅ Completed |
 | 2 | Command Injection | Critical | ✅ Completed |
-| 3 | SQL Injection | Critical | 🔄 In Progress |
-| 4 | File Inclusion (LFI) | High | ⏳ Pending |
+| 3 | SQL Injection | Critical | ✅ Completed |
+| 4 | File Inclusion (LFI) | High | 🔄 In Progress |
 | 5 | File Upload | Critical | ⏳ Pending |
 | 6 | XSS Reflected | Medium | ⏳ Pending |
 | 7 | XSS Stored | Medium | ⏳ Pending |
