@@ -9,7 +9,7 @@ A full penetration test conducted against DVWA (Damn Vulnerable Web Application)
 | Machine | OS | Role | IP |
 |---|---|---|---|
 | DVWA-Server | Ubuntu Server 22.04 | Target | 192.168.100.129 |
-| Kali-Attacker | Kali Linux | Attacker | 192.168.100.x |
+| Kali-Attacker | Kali Linux | Attacker | 192.168.100.130 |
 
 **Virtualization:** VMware Workstation  
 **Network:** Host-Only (isolated lab)
@@ -22,8 +22,6 @@ A full penetration test conducted against DVWA (Damn Vulnerable Web Application)
 - **Nikto** — Web vulnerability scanning
 - **Hydra** — Brute force attacks
 - **SQLMap** — Automated SQL injection
-- **Burp Suite** — Web application proxy
-- **Metasploit** — Exploitation framework
 
 ---
 
