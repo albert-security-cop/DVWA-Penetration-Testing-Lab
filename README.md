@@ -36,7 +36,7 @@ A full penetration test conducted against DVWA (Damn Vulnerable Web Application)
 | 5 | File Upload | Critical | ✅ Completed |
 | 6 | XSS Reflected | Medium | ✅ Completed |
 | 7 | XSS Stored | Medium | ✅ Completed |
-| 8 | CSRF | Medium | 🔄 In Progress |
+| 8 | CSRF | Medium | ✅ Completed |
 
 ---
 
